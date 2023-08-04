@@ -1,4 +1,4 @@
-# Postgres Cheat Sheet
+# PostgreSQL Cheat Sheet
 Cheat sheet for PostgreSQL CLI tool
 
 ## Install PostgreSQL
